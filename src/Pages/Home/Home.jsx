@@ -134,9 +134,10 @@ export default function Home({ addFunc, ProductList, cart }) {
             <div>
               <h1>En Pastelería Avilez, el corazón es nuestro ingrediente principal</h1>
               <h2>Sobre Nosotros</h2>
-              <p className='home-text'>Nacimos con una pasión clara: transformar cada celebración y momento cotidiano en una experiencia dulce e inolvidable.
-                                       En un mercado lleno de opciones, nuestra meta no es solo ofrecer repostería, sino convertirmos en tu pastelería de confianza,
-                                       esa que entra a tu hogar a través del sabor auténtico y el trabajo bien hecho.</p>
+              <p className='home-text'>La pasión por convertir cada celebración en momentos inolvidables nos mueve a reinventarnos.
+                                       Nuestra meta es entrar en tu hogar a través del sabor auténtico y del trabajo bien hecho.
+                                       En este lugar, la inspiración nace de saber que detrás de cada pedido hay una historia, una sonrisa y un abrazo para compartir.
+              </p>
               <p className='home-text'>Para nosotros, hornear es un acto de entrega. Ponemos la dedicación, el tiempo y el corazón en cada receta, porque sabemos que detrás de cada pedido hay una historia, una sonrisa o un abrazo por compartir.</p>
             </div>
             <img className='intro-img' src={introImg_1} alt="cake shop" />
@@ -177,7 +178,7 @@ export default function Home({ addFunc, ProductList, cart }) {
                 data-bs-parent="#accordionExample"
               >
                 <div className="accordion-body">
-                Seleccionamos ingredientes frescos y de primera línea para
+                Seleccionamos de primera línea para
                 garantizar que cada bocado conserve el sabor artesanal que nos distingue.
                 </div>
               </div>
@@ -205,8 +206,7 @@ export default function Home({ addFunc, ProductList, cart }) {
               >
                 <div className="accordion-body">
                 Trabajamos con transparencia en nuestros procesos, 
-                respetando las recetas tradicionales y cuidando cada 
-                detalle de higiene y elaboración.
+                cuidando cada detalle de higiene y elaboración.
                 </div>
               </div>
             </div>
