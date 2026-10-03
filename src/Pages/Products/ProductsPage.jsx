@@ -6,7 +6,7 @@ import arrowIcon from '../../Assets/arrow-down.svg'
 import ProductCard from '../../Components/ProductCard/ProductCard'
 
 export default function ProductsPage({ addFunc, ProductList, cart }) {
-    const [selected, setSelected] = useState('Price: Low to high')
+    const [selected, setSelected] = useState('Precio: más bajo a más alto')
     const [page, setPage] = useState(1)
     const [chunkSize, setChunkSize] = useState(8)
     const [showList, setShowList] = useState(false)
@@ -44,10 +44,10 @@ export default function ProductsPage({ addFunc, ProductList, cart }) {
 
     useEffect(() => {
         let sortingRendering = ''
-        if (selected === 'Price: Low to high') {
+        if (selected === 'Precio: más bajo a más alto') {
             sortingRendering = ProductsAscending
         }
-        else if (selected === 'Price: High to low') {
+        else if (selected === 'Precio: más alto a más bajo') {
             sortingRendering = ProductsDescending
         }
         else if (selected === 'A-Z') {
@@ -96,8 +96,8 @@ export default function ProductsPage({ addFunc, ProductList, cart }) {
                         </button>
                         {sortList && (
                             <ul className={`products-sorting`}>
-                                <li onClick={(e) => { prodsSortingSelect(); sortingBtn(e) }} className='sorting-mode'>Price: Low to high</li>
-                                <li onClick={(e) => { prodsSortingSelect(); sortingBtn(e) }} className='sorting-mode'>Price: High to low</li>
+                                <li onClick={(e) => { prodsSortingSelect(); sortingBtn(e) }} className='sorting-mode'>Precio: más bajo a más alto</li>
+                                <li onClick={(e) => { prodsSortingSelect(); sortingBtn(e) }} className='sorting-mode'>Precio: más alto a más bajo</li>
                                 <li onClick={(e) => { prodsSortingSelect(); sortingBtn(e) }} className='sorting-mode'>A-Z</li>
                             </ul>
                         )}

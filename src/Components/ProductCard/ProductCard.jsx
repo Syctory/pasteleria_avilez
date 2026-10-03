@@ -20,7 +20,7 @@ export default function ProductCard({ prod, addFunc, cart }) {
                 </div>
                 <button className='prod-add-btn' disabled={disableBtn()}
                     onClick={() => { addFunc(prod); disableBtn() }}>
-                    {disableBtn() ? <>Added to cart</> : <>Add to cart</>}
+                    {disableBtn() ? <>Added to cart</> : <>Agregar</>}
                 </button>
             </div>
         </div>
