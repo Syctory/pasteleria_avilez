@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/pasteleria_avilez/static/css/main.dd097918.css",
+    "main.js": "/pasteleria_avilez/static/js/main.211f8a77.js",
+    "static/media/recipe-cover.avif": "/pasteleria_avilez/static/media/recipe-cover.55f7485d0bcdc48fc8aa.avif",
+    "static/media/form-bg.avif": "/pasteleria_avilez/static/media/form-bg.4e997568381a350f8027.avif",
+    "static/media/10.jpeg": "/pasteleria_avilez/static/media/10.818ec18ca3a33180e4e8.jpeg",
+    "static/media/7.jpeg": "/pasteleria_avilez/static/media/7.1baef5f3860e435246fd.jpeg",
+    "static/media/9.jpeg": "/pasteleria_avilez/static/media/9.18bcf36cfd421ec26f60.jpeg",
+    "static/media/6.jpeg": "/pasteleria_avilez/static/media/6.fdb604eba1004484687c.jpeg",
+    "static/media/8.jpeg": "/pasteleria_avilez/static/media/8.4a2e85ac14290393e3f6.jpeg",
+    "static/media/3.jpeg": "/pasteleria_avilez/static/media/3.2a5694196e88ed6597bb.jpeg",
+    "static/media/Logo.jpeg": "/pasteleria_avilez/static/media/Logo.58fed650a97f7b4b3bb2.jpeg",
+    "static/media/1.jpeg": "/pasteleria_avilez/static/media/1.1bedb5a99c0aab2255a1.jpeg",
+    "static/media/2.jpeg": "/pasteleria_avilez/static/media/2.98c821c932b45a68b1e9.jpeg",
+    "static/media/4.jpeg": "/pasteleria_avilez/static/media/4.8e65d11ce734c2cfbb05.jpeg",
+    "static/media/5.jpeg": "/pasteleria_avilez/static/media/5.efa3dce2a35f701e018a.jpeg",
+    "static/media/wave.svg": "/pasteleria_avilez/static/media/wave.cbdfadb1e1117e4c045b2f1412c03cb4.svg",
+    "static/media/insta.svg": "/pasteleria_avilez/static/media/insta.7a3b5420985bed403bbb0ab6ade4cc49.svg",
+    "static/media/hollowed-boxes.svg": "/pasteleria_avilez/static/media/hollowed-boxes.c52e41726213feecf224.svg",
+    "index.html": "/pasteleria_avilez/index.html",
+    "static/media/yt.svg": "/pasteleria_avilez/static/media/yt.dff66ab92cc571cb3e98b467cfc1d0e6.svg",
+    "static/media/trash3.svg": "/pasteleria_avilez/static/media/trash3.e49d1c7f60fa2a15f769d9dd4b6b27f2.svg",
+    "static/media/arrows.svg": "/pasteleria_avilez/static/media/arrows.4b4e48a2c5f8e8c35ce65eabf58eec9e.svg",
+    "static/media/telephone.svg": "/pasteleria_avilez/static/media/telephone.89d162d2f2e9e3460ce4295cf4505beb.svg",
+    "static/media/facebook.svg": "/pasteleria_avilez/static/media/facebook.1bc0288746d9d8eec1ee87d3497c5b1f.svg",
+    "static/media/bagfill.svg": "/pasteleria_avilez/static/media/bagfill.3f9f8a732b87161abe6437c3377f8cc7.svg",
+    "static/media/arrow-down.svg": "/pasteleria_avilez/static/media/arrow-down.3829edc57af0f5e0377e2f514feb6baa.svg",
+    "static/media/plus-lg.svg": "/pasteleria_avilez/static/media/plus-lg.514de69cedfd9ce4bf65f554db93d700.svg",
+    "static/media/geo-alt-fill.svg": "/pasteleria_avilez/static/media/geo-alt-fill.8947352bcd990386026070f1fdf7b5ca.svg",
+    "static/media/dash-lg.svg": "/pasteleria_avilez/static/media/dash-lg.5ce032191b92ab3098eac1c4292fcdeb.svg",
+    "main.dd097918.css.map": "/pasteleria_avilez/static/css/main.dd097918.css.map",
+    "main.211f8a77.js.map": "/pasteleria_avilez/static/js/main.211f8a77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd097918.css",
+    "static/js/main.211f8a77.js"
+  ]
+}
