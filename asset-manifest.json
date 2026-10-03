@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pasteleria_avilez/static/css/main.dd097918.css",
-    "main.js": "/pasteleria_avilez/static/js/main.211f8a77.js",
+    "main.js": "/pasteleria_avilez/static/js/main.8d46a0dc.js",
     "static/media/recipe-cover.avif": "/pasteleria_avilez/static/media/recipe-cover.55f7485d0bcdc48fc8aa.avif",
     "static/media/form-bg.avif": "/pasteleria_avilez/static/media/form-bg.4e997568381a350f8027.avif",
     "static/media/10.jpeg": "/pasteleria_avilez/static/media/10.818ec18ca3a33180e4e8.jpeg",
@@ -30,10 +30,10 @@
     "static/media/geo-alt-fill.svg": "/pasteleria_avilez/static/media/geo-alt-fill.8947352bcd990386026070f1fdf7b5ca.svg",
     "static/media/dash-lg.svg": "/pasteleria_avilez/static/media/dash-lg.5ce032191b92ab3098eac1c4292fcdeb.svg",
     "main.dd097918.css.map": "/pasteleria_avilez/static/css/main.dd097918.css.map",
-    "main.211f8a77.js.map": "/pasteleria_avilez/static/js/main.211f8a77.js.map"
+    "main.8d46a0dc.js.map": "/pasteleria_avilez/static/js/main.8d46a0dc.js.map"
   },
   "entrypoints": [
     "static/css/main.dd097918.css",
-    "static/js/main.211f8a77.js"
+    "static/js/main.8d46a0dc.js"
   ]
 }
