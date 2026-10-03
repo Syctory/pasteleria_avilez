@@ -2,7 +2,7 @@ import React from 'react'
 import './Contact.css'
 import geoIcon from '../../Assets/geo-alt-fill.svg'
 import phoneIcon from '../../Assets/telephone.svg'
-import mailIcon from '../../Assets/envelope-at-fill.svg'
+import mailIcon from '../../Assets/icon/Instragram.png'
 
 export default function Contact() {
   return (
@@ -12,18 +12,18 @@ export default function Contact() {
         <div className='contact-container'>
           <div className='phone contact-info'>
             <img className='contact-icons' src={phoneIcon} alt="phone icon" />
-            <p>+44 822 142 1158</p>
+            <p>+52 248 174 08 75</p>
           </div>
           <div className='phone contact-info'>
             <img className='contact-icons' src={mailIcon} alt="envelope icon" />
-            <p>cake.shop@info.uk</p>
+            <p>pateleria_avilez</p>
           </div>
           <div className='phone contact-info'>
             <img className='contact-icons' src={geoIcon} alt="map mark" />
-            <p>78 Broad St, Birmingham</p>
+            <p>Hidalgo 25, La Trinidad Tenexyecac Centro, 90121 Huiloapan, Tlax.</p>
           </div>
         </div>
-        <iframe className='google-map' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d155455.27832596673!2d-2.0284358496915655!3d52.497443701163746!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870942d1b417173%3A0xca81fef0aeee7998!2zQmlybWluZ2hhbSwgRWd5ZXPDvGx0IEtpcsOhbHlzw6Fn!5e0!3m2!1shu!2shu!4v1673098453488!5m2!1shu!2shu"
+        <iframe className='google-map' src="https://www.google.com/maps/embed?pb=!4v1791001144821!6m8!1m7!1s76Z4buIIf33sxjLqZUsp1Q!2m2!1d19.33542675694449!2d-98.31395962302419!3f318.15!4f-18.230000000000004!5f2.2021578239782444"
           loading="lazy" referrerPolicy="no-referrer-when-downgrade" title='google map'></iframe>
       </div>
       <div className='form-w-title'>

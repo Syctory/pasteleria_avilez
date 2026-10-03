@@ -1,7 +1,7 @@
     [
         {
             "imgSrc": "/Assets/Products/001.avif",
-            "prodTitle": "Extra Chocolate Cake",
+            "prodTitle": "Fresas Con Zarsamora",
             "prodPrice": "7",
             "totalprodQty": 0,
             "totalPrice": 0
@@ -15,7 +15,7 @@
         },
         {
             "imgSrc": "/Assets/Products/004.avif",
-            "prodTitle": "Strawberry Cream Cake",
+            "prodTitle": "Tres Leches",
             "prodPrice": "7.8",
             "totalprodQty": 0,
             "totalPrice": 0

@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import './Header.css'
 import bag from '../../Assets/bagfill.svg'
-import logo from '../../Assets/logo.png'
+import logo from '../../Assets/products/Logo.jpeg'
 import { Link } from 'react-router-dom'
 
 export default function Header({ cartItemNum }) {
@@ -21,7 +21,7 @@ export default function Header({ cartItemNum }) {
                 <div className='header-left-container'>
                     <Link className='logo-container' to="/">
                         <img className='logo-img' src={logo} alt="logo about a cake" />
-                        <h1 className='logo-text'>Cake shop</h1>
+                        <h1 className='logo-text'>Pasteleria Avilez</h1>
                     </Link>
                     <Link to='/cart' onClick={hideMenu}>
                         <div className='header-cart-container'>

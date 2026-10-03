@@ -10,7 +10,7 @@ export default function Footer() {
 
     return (
         <footer>
-            <p>Cake shop &copy; {year} </p>
+            <p>Pasteleria Avilez &copy; {year} </p>
             <div className='social-container'>
                 <img className='social-logo' src={facebookLogo} alt="facebook logo" />
                 <img className='social-logo' src={instaLogo} alt="instagram logo" />
